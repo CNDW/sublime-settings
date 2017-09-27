@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+expect(${1:true}).${2:toEqual}(${3:false});
+]]></content>
+  <tabTrigger>expect</tabTrigger>
+  <scope>source.js</scope>
+  <description>Testing expect statement</description>
+</snippet>

@@ -1,0 +1,10 @@
+{
+	"extensions":
+	[
+		"js",
+		"es6",
+		"ts",
+		"jsx",
+		"snap"
+	]
+}

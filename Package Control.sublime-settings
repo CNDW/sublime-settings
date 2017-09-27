@@ -1,0 +1,37 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Babel",
+		"Better CoffeeScript",
+		"ESLint-Formatter",
+		"GitGutter",
+		"Handlebars",
+		"HTMLBeautify",
+		"Jade",
+		"Javascript Beautify",
+		"Jinja2",
+		"JSX",
+		"nginx",
+		"Package Control",
+		"Pretty JSON",
+		"Python Flake8 Lint",
+		"Riot Tag",
+		"SCSS",
+		"sublime-ejs",
+		"sublime_diagram_plugin",
+		"SublimeLinter",
+		"SublimeLinter-contrib-eslint",
+		"SublimeLinter-flow",
+		"Syntax Highlighting for PostCSS"
+	],
+	"repositories":
+	[
+		"https://github.com/johnrork/ST3-HTML-Underscore-Syntax",
+		"https://github.com/falsefalse/sublime-ejs",
+		"https://github.com/hardillb/sublime_diagram_plugin"
+	]
+}

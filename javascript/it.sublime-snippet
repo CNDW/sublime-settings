@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+it('should ${1:do something}', () => {
+  expect(${2:true}).${3:toEqual}(${4:false});
+});
+]]></content>
+  <tabTrigger>it</tabTrigger>
+  <scope>source.js</scope>
+  <description>Testing It block</description>
+</snippet>

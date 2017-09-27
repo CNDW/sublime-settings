@@ -1,0 +1,29 @@
+<snippet>
+  <content><![CDATA[
+import React from 'react';
+import PropTypes from 'prop-types';
+import { connect } from 'react-redux';
+
+class ${1:Component} extends React.Component {
+  render() {
+    return (
+      <div />
+    );
+  }
+}
+
+${1:Component}.propTypes = {
+
+};
+
+export default connect((state, ownProps) => {
+  return {};
+}, (dispatch) => {
+  return {};
+})(${1:Component});
+
+]]></content>
+  <tabTrigger>rcomp</tabTrigger>
+  <scope>source.js</scope>
+  <description>React Stateful Component boilerplate</description>
+</snippet>
